@@ -1,0 +1,7 @@
+Spring:
+     boot:
+          msg: "Welcome from YAML"
+          error: "You got Error"
+          
+  
+  

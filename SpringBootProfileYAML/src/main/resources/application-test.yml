@@ -1,0 +1,4 @@
+msg: msg from test
+
+server:
+     port: 7777

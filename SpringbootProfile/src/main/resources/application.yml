@@ -1,0 +1,8 @@
+environment:
+     dev:
+          url: My Local URL
+          name: pravinDev
+     prod:
+          url: My prog URL
+          name: pravinProd
+          
